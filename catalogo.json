@@ -1,0 +1,34 @@
+[
+    {
+      "codigo": 0,
+      "titulo": "Filme Um",
+      "duracao": 2,
+      "atores": ["João", "José", "Maria"],
+      "anoLancamento": 2016,
+      "emCartaz": false
+    },
+    {
+      "codigo": 1,
+      "titulo": "Segundo filme",
+      "duracao": 1.5,
+      "atores": ["Paulo", "Pedro", "Daniel"],
+      "anoLancamento": 2019,
+      "emCartaz": true
+    },
+    {
+      "codigo": 2,
+      "titulo": "Filme 3",
+      "duracao": 2.15,
+      "atores": ["Ingrid", "Anna", "Luis"],
+      "anoLancamento": 2013,
+      "emCartaz": false
+    },
+    {
+      "codigo": 3,
+      "titulo": "Filme 4",
+      "duracao": 2.5,
+      "atores": ["Anna"],
+      "anoLancamento": 2015,
+      "emCartaz": false
+    }
+  ]
